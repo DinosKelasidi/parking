@@ -4,5 +4,5 @@
 
 UML-диаграмма:
 
-27351ed0-6369-45e4-995e-6ead4feef521.jfif
+https://github.com/DinosKelasidi/parking/blob/690689686eceaeb1d352e1124ab8ca1ad655ba69/27351ed0-6369-45e4-995e-6ead4feef521.jfif
 
