@@ -4,5 +4,5 @@
 
 UML-диаграмма:
 
-![photo_2024-12-15_15-06-16](https://github.com/user-attachments/assets/904faaa9-dc44-4b78-bd5a-4768fe466f01)
+![photo_2024-12-15_15-06-16]([https://github.com/user-attachments/assets/904faaa9-dc44-4b78-bd5a-4768fe466f01](https://github.com/DinosKelasidi/parking/blob/9bd168fa05952c53421d266ccc82f2c1b1b7785e/27351ed0-6369-45e4-995e-6ead4feef521.jpg))
 
